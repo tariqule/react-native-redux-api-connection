@@ -14,7 +14,7 @@
     "native-base": "^2.12.2",
     "npm": "^6.10.1",
     "react": "16.8.3",
-    "react-dom": "^16.8.6",
+    "react-dom": "^16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-button-component": "^0.2.28",
     "react-native-elements": "^1.1.0",
